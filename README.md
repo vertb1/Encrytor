@@ -25,23 +25,23 @@ Initial release of Encryptor, featuring:
 
 ## About
 
-Encryptor is a powerful, user-friendly file encryption tool designed with security and simplicity in mind. Built using Rust for maximum performance and safety, it offers military-grade encryption to protect your sensitive files.
+Encryptor is a powerful, user-friendly file encryption tool designed with security and simplicity in mind. Built using advanced technologies for maximum performance and safety, it offers military-grade encryption to protect your sensitive files.
 
 ### Why Encryptor?
 
 - **Security First**: Implements industry-standard AES-256-GCM and ChaCha20-Poly1305 encryption algorithms
 - **User-Friendly**: Clean, modern interface that makes encryption accessible to everyone
-- **Performance**: Written in Rust for optimal speed and memory safety
-- **Trustworthy**: Open-source code for transparency and security verification
+- **Performance**: Optimized for speed and reliability
+- **Professional**: Proprietary software with regular updates and support
 - **Lightweight**: Small installation footprint with no unnecessary dependencies
 
 ### Technical Details
 
 - **Primary Encryption**: AES-256-GCM (Galois/Counter Mode)
 - **Alternative Encryption**: ChaCha20-Poly1305
-- **Key Derivation**: Argon2id with high memory and iteration parameters
+- **Key Derivation**: Advanced key derivation with high security parameters
 - **Random Generation**: Cryptographically secure random number generation
-- **Memory Safety**: Secure memory wiping after operations
+- **Memory Safety**: Secure memory handling after operations
 
 ### Use Cases
 
@@ -51,4 +51,8 @@ Encryptor is a powerful, user-friendly file encryption tool designed with securi
 - Safe file sharing
 - Confidential data storage
 
-Created by vertb1, Encryptor aims to provide a balance between robust security and ease of use, making file encryption accessible to both security experts and casual users.
+Created by vertb1, Encryptor provides a perfect balance between robust security and ease of use, making file encryption accessible to both security experts and casual users.
+
+### Note
+
+Encryptor is proprietary software. All rights reserved. Unauthorized distribution or modification is prohibited.
