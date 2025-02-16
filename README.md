@@ -1,4 +1,4 @@
-# Encryptor v1.0.1
+# Encryptor v1.1.0
 
 Latest release of Encryptor, featuring enhanced security and usability improvements.
 
@@ -53,9 +53,3 @@ Created by vertb1, Encryptor provides a perfect balance between robust security 
 ### Note
 
 Encryptor is proprietary software. All rights reserved. Unauthorized distribution or modification is prohibited.
-
-### Latest Updates (v1.0.1)
-- Improved decryption reliability
-- Enhanced progress tracking
-- Better error handling
-- Streamlined user interface
